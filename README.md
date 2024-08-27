@@ -1,6 +1,6 @@
 # 🚀 Exciting AWS EC2 Automation Project 🚀
 
-![Project Banner](path/to/your/banner/image.jpg)
+
 
 Just wrapped up a hands-on project where I automated the creation of AWS EC2 instances using a Bash script and the AWS CLI! 🛠️💻 This project allows for quick and flexible deployments of EC2 instances tailored to various configurations.
 
